@@ -6,6 +6,13 @@
   "fbInter": "YOUR_PLACEMENT_ID",
   "fbNative": "YOUR_PLACEMENT_ID",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
+  
+  "AdxBannr": "ca-app-pub-3940256099942544/6300978111",
+  "AdxInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdxbInterSplash":"",
+  "AdxNative": "ca-app-pub-3940256099942544/2247696110",
+  "AdxOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  
   "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
   "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
   "AdmobInterSplash":"",
