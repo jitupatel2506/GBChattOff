@@ -2,9 +2,9 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "com.vidchat.videodownloader.video.downloader",
-  "fbBannr": "YOUR_PLACEMENT_ID",
-  "fbInter": "YOUR_PLACEMENT_ID",
-  "fbNative": "YOUR_PLACEMENT_ID",
+  "fbBannr": "540754254657443_540764874656381",
+  "fbInter": "540754254657443_540764784656390",
+  "fbNative": "540754254657443_540764701323065",
   "fbNativeBnnr": "YOUR_PLACEMENT_ID",
   "ApplovinBannr": "dd5597c436294502",
   "ApplovinInter": "20cac32cdf08c3de",
@@ -21,5 +21,5 @@
   "adStatus": "admob",
   "loadMore":false,
   "adNativeCount":15,
-  "adMobTime":60
+  "adMobTime":50
 }
